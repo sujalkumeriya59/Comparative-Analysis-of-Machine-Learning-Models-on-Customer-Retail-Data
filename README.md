@@ -4,16 +4,21 @@
 The objective of this project is to build and compare multiple Machine Learning models
 using a customer dataset. Students will learn preprocessing, visualization, model training,
 prediction, evaluation, and comparison of algorithms.
+
 Dataset Features Used
+
 • Quantity
 • UnitPrice
 • Country
 
 Machine Learning Models Used
+
 • Logistic Regression
 • Decision Tree Classifier
 • K-Nearest Neighbors (KNN)
+
 Project Workflow
+
 1. Load customer dataset using Pandas
 2. Handle missing values
 3. Encode categorical columns using LabelEncoder
@@ -24,7 +29,9 @@ Project Workflow
 8. Train KNN model
 9. Evaluate models using Accuracy and Confusion Matrix
 10. Compare model performances using graphs
+    
 Evaluation Metrics
+
 • Accuracy Score
 • Confusion Matrix
 Visualization Included
