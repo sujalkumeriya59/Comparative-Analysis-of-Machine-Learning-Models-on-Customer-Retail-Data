@@ -32,12 +32,16 @@ Visualization Included
 • Model Accuracy Comparison Graph
 
 Learning Outcomes
+
 • Understand complete Machine Learning workflow
 • Understand supervised learning
 • Learn model evaluation techniques
 • Compare different ML algorithms
 • Interpret graphs and confusion matrices
+
+
 Conclusion
+
 This project demonstrates how different Machine Learning algorithms perform on the same
 dataset. Students learn the importance of preprocessing, feature selection, evaluation, and
 model comparison in real-world Machine Learning applications.
